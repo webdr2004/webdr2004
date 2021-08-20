@@ -1,0 +1,1 @@
+Hey everyone, My name is Chris and I am currently learning Python. Right now, I am working as a Customer Service Representative for a work at home company. My dream is to eventuall work for myself as a programmer. So far, I have created a Snake Game with python. 
